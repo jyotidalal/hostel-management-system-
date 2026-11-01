@@ -1,5 +1,5 @@
 Hostel Management System
 
 name = angel 
-reg no = 251302022
+reg no = 251302142 
 girthub link = 
